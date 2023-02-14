@@ -10,10 +10,10 @@ Feel free to reach out to me for networking or work-related inquiries via [Linke
 
 ## Projects I worked on:
 
-* large-scale Electricity market simulation (e.g. Europe) for Energy policy design
+* large-scale Electricity market simulation (e.g. Europe) for Energy policy design at [Italy's Energy Systems Research (RSE)](https://www.rse-web.it/)
 * multi-level optimal production planning at Pirelli Tires
-* [large-scale pricing optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748534) at Zalando SE (#1 fashion e-retailer in Europe)
-* no-code price optimization at Priceloop GmbH
+* large-scale pricing optimization at [Zalando SE](https://corporate.zalando.com/en) (#1 fashion e-retailer in Europe).  A report is available as a [book chapter](https://www.springerprofessional.de/en/large-scale-price-optimization-for-an-online-fashion-retailer/23145192) and [pre-print version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748534).
+* no-code price optimization at [Priceloop GmbH](https://priceloop.ai/)
 
 
 ## Areas of research/interest:
@@ -26,3 +26,8 @@ Feel free to reach out to me for networking or work-related inquiries via [Linke
 ## Affiliations
 
 INFORMS member and [Certified Analytics Professional (CAP)](https://www.credential.net/06e9eca1-4e4b-45a5-91bf-45ca7fa57cee#gs.hjikix).
+
+
+## Selected Talks
+
+* ["Operations Research: The Scalable AI for Complex Decision Problems"](https://github.com/andrea-taverna/lagrangian_example/blob/master/ATaverna_DLI_2022.pdf) ([code repository](https://github.com/andrea-taverna/lagrangian_example)) presented on July 2022 at [Deep Learning Italia](https://deeplearningitalia.com/)/Codemotion  - link to [talk](https://talks.codemotion.com/operations-research-the-scalable-ai-for-?view=true) (audio in Italian).
