@@ -32,4 +32,4 @@ INFORMS member and [Certified Analytics Professional (CAP)](https://www.credenti
 ## Selected Talks
 
 * ["Operations Research: The Scalable AI for Complex Decision Problems"](https://github.com/andrea-taverna/lagrangian_example/blob/master/ATaverna_DLI_2022.pdf) ([code repository](https://github.com/andrea-taverna/lagrangian_example)) presented on July 2022 at [Deep Learning Italia](https://deeplearningitalia.com/)/Codemotion  - link to [talk](https://talks.codemotion.com/operations-research-the-scalable-ai-for-?view=true) (audio in Italian).
-* [Pricing Analytics for Fashion Retail - My experience after 4-ish years in the trenches](https://github.com/andrea-taverna/andrea-taverna/blob/main/files/Pricing%20Analytics%20for%20Fashion%20Retail.pdf) 
+* [Pricing Analytics for Fashion Retail - My experience after 4-ish years in the trenches](https://github.com/andrea-taverna/andrea-taverna/blob/main/files/Pricing%20Analytics%20for%20Fashion%20Retail.pdf), presented at private internal event in 2022.
